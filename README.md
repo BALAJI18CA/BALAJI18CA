@@ -1,3 +1,8 @@
 # Data-Visula-and-data-mining
-Config files for my GitHub profile.
+seabor visuvalazation
+plotly
+data wrangling 
+numpy 
+pandas
+matplotlib
 tried with my self
